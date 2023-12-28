@@ -4,7 +4,7 @@
 Full Stack Web Developer
 ------------------------
 
-Since 5 years I have been developing myself in web development projects. I have produced projects in many areas but I am focused on web services.
+Since 5 years I have been developing myself in web development projects. I have produced projects in many areas but I am focused on web services..
 
 * 🌍  I'm based in İstanbul.
 * 🖥️  See my portfolio at [Web site](http://webludo.com)
