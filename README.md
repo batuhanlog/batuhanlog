@@ -10,8 +10,6 @@ Since 5 years I have been developing myself in web development projects. I have 
 * 🖥️  See my portfolio at [Web site](http://webludo.com)
 * ✉️  You can contact me at [batuhan@webludo.com](mailto:batuhan@webludo.com)
 * 🚀  I'm currently working on [Patika Bootcamp](http://patika.dev)
-* 🧠  I'm learning a new js framework
-* 🤝  I'm open to collaborating on remote projects
 * ⚡  You can contact me for anything you are curious about (I  won't eat you)
 
 <a href="https://www.x.com/batuhan_log" target="_blank" rel="noreferrer"><img
