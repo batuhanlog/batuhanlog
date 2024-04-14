@@ -12,6 +12,4 @@ Since 5 years I have been developing myself in web development projects. I have 
 * 🚀  I'm currently working on [Patika Bootcamp](http://patika.dev)
 * ⚡  You can contact me for anything you are curious about (I  won't eat you)
 
-<a href="https://www.x.com/batuhan_log" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/batuhanlog?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
