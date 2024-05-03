@@ -13,15 +13,15 @@ Since 5 years I have been developing myself in web development projects. I have 
 * ⚡  You can contact me for anything you are curious about (I  won't eat you)
 
 
-| ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/4d20b6e3-78cc-4af9-a2a7-5898e900848e)
-  	|   ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/72284873-63ad-47bf-b970-0c22feca5855)
-	|   	|   ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/079cd1cb-4e2a-4953-8c54-6b864fd9982d)
-	|   	|
+|   	|   	|   	|   	|   	|
 |---	|---	|---	|---	|---	|
-|  ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/95d41c0e-c005-4350-afa2-51d8b739c916)
- 	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
+|               ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/c1533b50-bd1c-408c-bcab-9fa5e1547fcc)
+	|  ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/7a347e02-a867-453d-99d7-7b154f0e6d7b)
+ 	|   	|  ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/fcb8a5fa-a277-4ca5-8cdd-6df4d83b7b34)
+ 	|   	|![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/591fb1e7-c3e7-481f-a94d-4ebce6727546)
 
+|   	|   	|   ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/a98fd8fb-d9de-4473-afd9-16ecf656d25c)
+	|   	|   	|
+|   	|   	|   	|   	|   	|
 
 
