@@ -13,10 +13,11 @@ Since 5 years I have been developing myself in web development projects. I have 
 * ⚡  You can contact me for anything you are curious about (I  won't eat you)
 
 
+![Front-End](https://github.com/batuhanlog/batuhanlog/assets/82649079/fd6564db-d140-440f-b571-67073d2c717a)
 
 
 
-|   	|   	|   	|   	|   	|   	|   	|   	|
+|  ![Front-End](https://github.com/batuhanlog/batuhanlog/assets/82649079/fd6564db-d140-440f-b571-67073d2c717a) 	|   ![Front-End](https://github.com/batuhanlog/batuhanlog/assets/82649079/fd6564db-d140-440f-b571-67073d2c717a)	|   ![Front-End](https://github.com/batuhanlog/batuhanlog/assets/82649079/fd6564db-d140-440f-b571-67073d2c717a)	| ![Front-End](https://github.com/batuhanlog/batuhanlog/assets/82649079/fd6564db-d140-440f-b571-67073d2c717a)  	|  ![Front-End](https://github.com/batuhanlog/batuhanlog/assets/82649079/fd6564db-d140-440f-b571-67073d2c717a) 	|  ![Front-End](https://github.com/batuhanlog/batuhanlog/assets/82649079/fd6564db-d140-440f-b571-67073d2c717a) 	|  ![Front-End](https://github.com/batuhanlog/batuhanlog/assets/82649079/fd6564db-d140-440f-b571-67073d2c717a) 	|  ![Front-End](https://github.com/batuhanlog/batuhanlog/assets/82649079/fd6564db-d140-440f-b571-67073d2c717a) 	|
 |---	|---	|---	|---	|---	|---	|---	|---	|
 |   	|   	|   	|   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|   	|
