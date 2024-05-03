@@ -13,15 +13,11 @@ Since 5 years I have been developing myself in web development projects. I have 
 * ⚡  You can contact me for anything you are curious about (I  won't eat you)
 
 
-|   	|   	|   	|   	|   	|
-|---	|---	|---	|---	|---	|
-|               ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/c1533b50-bd1c-408c-bcab-9fa5e1547fcc)
-	|  ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/7a347e02-a867-453d-99d7-7b154f0e6d7b)
- 	|   	|  ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/fcb8a5fa-a277-4ca5-8cdd-6df4d83b7b34)
- 	|   	|![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/591fb1e7-c3e7-481f-a94d-4ebce6727546)
 
-|   	|   	|   ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/a98fd8fb-d9de-4473-afd9-16ecf656d25c)
-	|   	|   	|
-|   	|   	|   	|   	|   	|
+|   ![alt text](image-1.png)	|   ![alt text](image-2.png)	|   ![alt text](image-3.png)	| ![alt text](image-4.png)  	|  ![alt text](image-5.png) 	|  ![alt text](image-6.png)   |  ![alt text](image-7.png)   |
+|---	|---	|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|   	|
 
 
