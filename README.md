@@ -11,7 +11,11 @@ Since 5 years I have been developing myself in web development projects. I have 
 * ✉️  You can contact me at [batuhan@webludo.com](mailto:batuhan@webludo.com)
 * 🚀  I'm currently working on [Patika Bootcamp](http://patika.dev)
 * ⚡  You can contact me for anything you are curious about (I  won't eat you)
-
+| ![Görsel](https://cdn-icons-png.flaticon.com/128/6211/6211957.png)  |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
     |  ![Görsel](https://cdn-icons-png.flaticon.com/128/6211/6211957.png)    | ![Görsel](https://cdn-icons-png.flaticon.com/128/6211/6211957.png)     |   ![Görsel](https://cdn-icons-png.flaticon.com/128/6211/6211957.png)   |  ![Görsel](https://cdn-icons-png.flaticon.com/128/6211/6211957.png)    |  ![Görsel](https://cdn-icons-png.flaticon.com/128/6211/6211957.png)    |
 
 
