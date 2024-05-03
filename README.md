@@ -15,7 +15,8 @@ Since 5 years I have been developing myself in web development projects. I have 
 
 |   	|   	|   	|   	|   	|
 |---	|---	|---	|---	|---	|
-|   	|   	|   	|   	|   	|
+|  ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/95d41c0e-c005-4350-afa2-51d8b739c916)
+ 	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
 
