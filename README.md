@@ -15,7 +15,8 @@ Since 5 years I have been developing myself in web development projects. I have 
 
 
 
-|   ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/06192e8d-adad-4635-ae4f-fe9ffcf3fda2) |   ![alt text](image-2.png)	|   ![alt text](image-3.png)	| ![alt text](image-4.png)  	|  ![alt text](image-5.png) 	|  ![alt text](image-6.png)   |  ![alt text](image-7.png)   |
+
+|  ![Front-End](https://github.com/batuhanlog/batuhanlog/assets/82649079/bf9470fc-d94e-46e9-af49-c8dfa8d50f89)  |   ![alt text](image-2.png)	|   ![alt text](image-3.png)	| ![alt text](image-4.png)  	|  ![alt text](image-5.png) 	|  ![alt text](image-6.png)   |  ![alt text](image-7.png)   |
 |---	|---	|---	|---	|---	|---	|---	|
 |   	|   	|   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|
