@@ -254,23 +254,24 @@ Since 5 years I have been developing myself in web development projects. I have 
 ![Siyah Teknoloji LinkedIn Banner](https://github.com/batuhanlog/batuhanlog/assets/82649079/04ced5f4-ed34-40e3-ae36-a5427b47228e)
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="138" width="138">
       <img
         src="https://github.com/batuhanlog/batuhanlog/assets/82649079/a990a552-e7b6-4ed8-9f36-094da2d54e58"
         width="48"
         height="48"
         alt="Java"
       />
-      <br /><strong>fr</strong>
+      <br /><strong></strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="138" width="138">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
+        src=" ![Screenshot (20)](https://github.com/batuhanlog/batuhanlog/assets/82649079/6375f036-e90c-4fc2-aec2-6084bc2ff144) "
         width="48"
         height="48"
         alt="Java"
       />
-      <br /><strong>Java</strong>
+
+      <br /><strong></strong>
     </td>
     <td align="center" height="108" width="108">
       <img
