@@ -407,7 +407,7 @@ Since 5 years I have been developing myself in web development projects. I have 
   <tr>
     <td align="center" height="108" width="178">
       <img
-        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/92007dd6-88db-47e8-80bd-487109648490"
+        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/2a892cb5-8c08-4129-bb38-6dc3471e9f3d"
         width="78"
         height="78"
         alt="React"
