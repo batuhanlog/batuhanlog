@@ -211,8 +211,6 @@ Since 5 years I have been developing myself in web development projects. I have 
       />
       <br /><strong>Figma</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://png.pngtree.com/png-clipart/20191027/ourmid/pngtree-tool-icon-png-image_1869818.jpg"
