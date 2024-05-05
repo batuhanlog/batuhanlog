@@ -252,7 +252,7 @@ Since 5 years I have been developing myself in web development projects. I have 
 
 <table>
   <tr>
-    <td align="center" height="108" width="158">
+    <td align="center" height="108" width="178">
       <img
         src="https://github.com/batuhanlog/batuhanlog/assets/82649079/07e08832-657d-4d4c-b8f1-804183761d6d"
         width="78"
