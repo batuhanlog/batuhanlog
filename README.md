@@ -256,7 +256,7 @@ Since 5 years I have been developing myself in web development projects. I have 
         height="48"
         alt="React"
       />
-     
+     </td>
     <!-- Diğer tools ekleyebilirsiniz -->
   </tr>
 </table>
