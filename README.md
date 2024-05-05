@@ -330,8 +330,8 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        width="78"
-        height="78"
+        width="48"
+        height="48"
         alt="JavaScript"
       />
       <br /><strong>JavaScript</strong>
