@@ -245,12 +245,12 @@ Since 5 years I have been developing myself in web development projects. I have 
       />
       <br /><strong>Insomnia</strong>
     </td>
-    <!-- Diğer tools ekleyebilirsiniz -->
+  
   </tr>
 
   <tr>
    
-    <!-- Diğer tools ekleyebilirsiniz -->
+    
   </tr>
 </table>
 
