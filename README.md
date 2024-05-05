@@ -1,4 +1,4 @@
-<img width="1793" alt="Make your README (2)" src="https://github.com/batuhanlog/batuhanlog/assets/82649079/88c78d23-1a77-4260-b215-ec149a6811e3">
+![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/edfcb64d-726c-4990-8a19-461bd8663b34)
 Since 5 years I have been developing myself in web development projects. I have produced projects in many areas but I am focused on web services..
 
 * 🌍  I'm based in İstanbul.
