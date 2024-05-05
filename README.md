@@ -252,6 +252,7 @@ Since 5 years I have been developing myself in web development projects. I have 
 </table>
 
 ![Siyah Teknoloji LinkedIn Banner](https://github.com/batuhanlog/batuhanlog/assets/82649079/04ced5f4-ed34-40e3-ae36-a5427b47228e)
+
 <table>
   <tr>
     <td align="center" height="138" width="138">
@@ -265,7 +266,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
     <td align="center" height="138" width="138">
       <img
-        src=" ![Screenshot (20)](https://github.com/batuhanlog/batuhanlog/assets/82649079/6375f036-e90c-4fc2-aec2-6084bc2ff144) "
+        src=" https://github.com/batuhanlog/batuhanlog/assets/82649079/6375f036-e90c-4fc2-aec2-6084bc2ff144"
         width="48"
         height="48"
         alt="Java"
