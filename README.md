@@ -254,16 +254,17 @@ Since 5 years I have been developing myself in web development projects. I have 
 ![Siyah Teknoloji LinkedIn Banner](https://github.com/batuhanlog/batuhanlog/assets/82649079/04ced5f4-ed34-40e3-ae36-a5427b47228e)
 
 
+
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="138" width="138">
       <img
-        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/3f1792b1-3c86-4ee6-880f-adf73a13c5b4"
+        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/2e10c676-5e8d-4d7c-b894-bd2bcde2e501"
         width="48"
         height="48"
         alt="Java"
       />
-      <br /><strong>Back-End</strong>
+      <br /><strong></strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -323,14 +324,14 @@ Since 5 years I have been developing myself in web development projects. I have 
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/5f5b1105-3ade-4cb0-b7b5-1a0d11bd528d"
+        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/0dad3b77-de17-463e-bed4-90dc80a2f23c"
         width="48"
         height="48"
         alt="React"
       />
       <br /><strong></strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="138" width="138">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         width="48"
