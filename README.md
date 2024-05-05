@@ -270,7 +270,15 @@ Since 5 years I have been developing myself in web development projects. I have 
         alt="Java"
       />
       <br /><strong>Veteriner Management</strong>
-   
+    <td align="center" height="108" width="108">
+    <a href="https://github.com/batuhanlog/Veterinary_Management">
+      <img
+        src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif"
+        width="148"
+        height="108"
+        alt="Java"
+      />
+      <br /><strong>Veteriner Management</strong>
    
   </tr>
   <tr>
