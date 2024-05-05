@@ -265,7 +265,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     <a href="https://github.com/batuhanlog/Veterinary_Management">
       <img
         src="https://private-user-images.githubusercontent.com/82649079/327976185-da551f50-fba6-467c-8607-d8a585d5eba3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5MjQ2NjIsIm5iZiI6MTcxNDkyNDM2MiwicGF0aCI6Ii84MjY0OTA3OS8zMjc5NzYxODUtZGE1NTFmNTAtZmJhNi00NjdjLTg2MDctZDhhNTg1ZDVlYmEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDE1NTI0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIwYjVlMjRjOGMwZDU5NGRhYjFjMzk1ZmM1MjUwODZjZmIyODE3NjZlNDA2MWRjNGFkNDUwYjhlYjE3NGVjOTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GQ1KF_Px9Et0yapG2_QDnJhBERfhgLe-_TD3FHkvOP0"
-        width="48"
+        width="148"
         height="48"
         alt="Java"
       />
@@ -273,9 +273,9 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-        width="48"
-        height="48"
+        src="https://private-user-images.githubusercontent.com/82649079/327980223-ab076d5f-4f99-4ad6-af37-997c6799b4da.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5NDAyNTUsIm5iZiI6MTcxNDkzOTk1NSwicGF0aCI6Ii84MjY0OTA3OS8zMjc5ODAyMjMtYWIwNzZkNWYtNGY5OS00YWQ2LWFmMzctOTk3YzY3OTliNGRhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDIwMTIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1Y2M0ZGQ4NGRmNDlkMTc5ODRjYmZiZDQwODlkZGEzYTFlMGFmMGI5ZTkxODA5M2ZjMzI0OTcxMTg2MDBkNmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0Vjq3teFUtY-1DxHys3Zi3CY9UD2D3ZoCZMhYK3ztt0"
+        width="148"
+        height="68"
         alt="Spring Boot"
       />
       <br /><strong>Spring Boot</strong>
@@ -303,12 +303,12 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
+        src="https://private-user-images.githubusercontent.com/82649079/327977445-8b9aa2a7-b2d6-455d-ad0a-70b1d3f64e9d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5NDAyNTUsIm5iZiI6MTcxNDkzOTk1NSwicGF0aCI6Ii84MjY0OTA3OS8zMjc5Nzc0NDUtOGI5YWEyYTctYjJkNi00NTVkLWFkMGEtNzBiMWQzZjY0ZTlkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDIwMTIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzMmMxYTFiNTRlZmE5YjYzYzBiNmUyOTYzNjc2YmY5MDg3MTU5NmNjNmUyNGY0ZjM5ZGVmYmYwNWE2MDk1N2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.djyCZOlENOxHrfhVyqlP9v-NOuvJV0Zhf8bunaAqdKA"
+        width="148"
+        height="58"
         alt="JavaScript"
       />
-      <br /><strong>JavaScript</strong>
+      <br /><strong>Responsive </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -345,12 +345,22 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"
-        width="48"
+        src="https://private-user-images.githubusercontent.com/82649079/327976767-3479862f-77f0-47a0-b52c-77ce49ec6019.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5NDAyNTUsIm5iZiI6MTcxNDkzOTk1NSwicGF0aCI6Ii84MjY0OTA3OS8zMjc5NzY3NjctMzQ3OTg2MmYtNzdmMC00N2EwLWI1MmMtNzdjZTQ5ZWM2MDE5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDIwMTIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlODY0MjAxZGFhYjgwYmRiMTQ0Mzc0ZjFjYjYzZWI4NjAwYTlkYzVhY2UyNzY3YTQwNDgyMWFjNDcyYTQ4MGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iq48V4dgqEfN5GhVNIDkEzZJhYh0pBHFEvCMqQkBm2I"
+        width="148"
         height="48"
         alt="Adobe Photoshop"
       />
-      <br /><strong>Adobe Photoshop</strong>
+      <br /><strong>Vet REST API</strong>
+    </td>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://private-user-images.githubusercontent.com/82649079/327977292-ada422eb-be79-4009-92e5-925337673e54.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5NDAyNTUsIm5iZiI6MTcxNDkzOTk1NSwicGF0aCI6Ii84MjY0OTA3OS8zMjc5NzcyOTItYWRhNDIyZWItYmU3OS00MDA5LTkyZTUtOTI1MzM3NjczZTU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDIwMTIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlNzQ5OTU2NWRmMjY3ODcxZmUwNWQ5NTBhMzU1OGQyMGQ2NWFmODEwYTUzMTM5YTFlZDhmYjYwNTc3NTc3MWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lZDvDaKiAdf4tixWzfRvab62oJL-lK7_BvTNWjRycEQ"
+        width="148"
+        height="48"
+        alt="Adobe Photoshop"
+      />
+      <br /><strong>Vet REST API</strong>
     </td>
    
     
