@@ -248,10 +248,7 @@ Since 5 years I have been developing myself in web development projects. I have 
   
   </tr>
 
-  <tr>
-   
-    
-  </tr>
+
 </table>
 
 ![Siyah Teknoloji LinkedIn Banner](https://github.com/batuhanlog/batuhanlog/assets/82649079/04ced5f4-ed34-40e3-ae36-a5427b47228e)
