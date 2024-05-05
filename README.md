@@ -249,14 +249,7 @@ Since 5 years I have been developing myself in web development projects. I have 
   </tr>
 
   <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://static.vecteezy.com/system/resources/previews/003/738/370/non_2x/management-project-icon-free-vector.jpg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-     </td>
+   
     <!-- Diğer tools ekleyebilirsiniz -->
   </tr>
 </table>
