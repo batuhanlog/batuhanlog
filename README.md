@@ -451,8 +451,7 @@ Since 5 years I have been developing myself in web development projects. I have 
       />
       <br /><strong>Figma</strong>
     </td>
-  </tr>
-  <tr>
+ 
     
   </tr>
 
