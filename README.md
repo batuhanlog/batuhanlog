@@ -289,33 +289,7 @@ Since 5 years I have been developing myself in web development projects. I have 
       />
       <br /><strong>MySQL</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Docker"
-      />
-      <br /><strong>Docker</strong>
-    </td>
+   
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -354,44 +328,7 @@ Since 5 years I have been developing myself in web development projects. I have 
       />
       <br /><strong>HTML</strong>
     </td>
-       <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="CSS"
-      />
-      <br /><strong>CSS</strong>
-    </td>
-    </td>
-       <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Tailwind CSS"
-      />
-      <br /><strong>Tailwind CSS</strong>
-    </td>
-    </td>
-       <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Electron"
-      />
-      <br /><strong>Electron</strong>
-    </td>
-    </td>
-       <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/vitejs.svg"
-        width="48"  
-        height="48"
-        alt="Tailwind CSS"
-      />
-      <br /><strong>Vite JS</strong>
+     
 
  
 
@@ -415,34 +352,7 @@ Since 5 years I have been developing myself in web development projects. I have 
       />
       <br /><strong>Adobe Photoshop</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
-        width="48"
-        height="48"
-        alt="Adobe Illustrator"
-      />
-      <br /><strong>Adobe Illustrator</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
-        width="48"
-        height="48"
-        alt="Canva"
-      />
-      <br /><strong> Canva</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-        width="48"
-        height="48"
-        alt="Figma"
-      />
-      <br /><strong>Figma</strong>
-    </td>
- 
+   
     
   </tr>
 
