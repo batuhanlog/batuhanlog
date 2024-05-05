@@ -1,10 +1,4 @@
-
-<img width="1835" alt="Make your README" src="https://github.com/batuhanlog/batuhanlog/assets/82649079/a8ecace7-030a-493d-9f33-cf47bfae2ab5">
-========================
-
-Full Stack Web Developer
-------------------------
-
+<img width="1793" alt="Make your README (1)" src="https://github.com/batuhanlog/batuhanlog/assets/82649079/cb76c854-902c-4af0-a7fb-4b661250c795">
 Since 5 years I have been developing myself in web development projects. I have produced projects in many areas but I am focused on web services..
 
 * 🌍  I'm based in İstanbul.
