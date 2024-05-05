@@ -72,7 +72,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+        src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg](https://private-user-images.githubusercontent.com/82649079/327972865-6cd23813-fd4e-4e4a-a502-d5777892034d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5MDg1NzgsIm5iZiI6MTcxNDkwODI3OCwicGF0aCI6Ii84MjY0OTA3OS8zMjc5NzI4NjUtNmNkMjM4MTMtZmQ0ZS00ZTRhLWE1MDItZDU3Nzc4OTIwMzRkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDExMjQzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBhZmJiNjMxZWI0MTBiZWMwZjRlNTAzYmYwNTU5YTQ5Y2E5NmI0ZGIxYmVhYzljMWYyMzlhOWJmZTViYTNkOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.W61_5S57YnSTADHdX-gjsTeLrcH024M3lBowF_QEQF4)"
         width="48"
         height="48"
         alt="MongoDB"
