@@ -7,7 +7,7 @@ Since 5 years I have been developing myself in web development projects. I have 
 * 🚀  I'm currently working on [Patika Bootcamp](http://patika.dev)
 * ⚡  You can contact me for anything you are curious about (I  won't eat you)
 
-
+![Profile views](https://gpvc.arturio.dev/[batuhanlog])
 # 🔧 Technologies & Tools
 
 <table>
