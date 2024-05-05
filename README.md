@@ -262,7 +262,7 @@ Since 5 years I have been developing myself in web development projects. I have 
       <br /><strong></strong>
     </td>
     <td align="center" height="108" width="108">
-    <a href="https://github.com/batuhanlog/Veterinary_Management" target="_blank">
+    <a href="https://github.com/batuhanlog/Veterinary_Management">
       <img
         src="https://private-user-images.githubusercontent.com/82649079/327976185-da551f50-fba6-467c-8607-d8a585d5eba3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5MjQ2NjIsIm5iZiI6MTcxNDkyNDM2MiwicGF0aCI6Ii84MjY0OTA3OS8zMjc5NzYxODUtZGE1NTFmNTAtZmJhNi00NjdjLTg2MDctZDhhNTg1ZDVlYmEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDE1NTI0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIwYjVlMjRjOGMwZDU5NGRhYjFjMzk1ZmM1MjUwODZjZmIyODE3NjZlNDA2MWRjNGFkNDUwYjhlYjE3NGVjOTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GQ1KF_Px9Et0yapG2_QDnJhBERfhgLe-_TD3FHkvOP0"
         width="48"
@@ -453,34 +453,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
   </tr>
   <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://png.pngtree.com/png-clipart/20191027/ourmid/pngtree-tool-icon-png-image_1869818.jpg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>Tools</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/postman.svg"
-        width="48"
-        height="48"
-        alt="Postman"
-      />
-      <br /><strong>Postman</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png"
-        width="48"
-        height="48"
-        alt="Insomnia"
-      />
-      <br /><strong>Insomnia</strong>
-    </td>
-  
+    
   </tr>
 
 
