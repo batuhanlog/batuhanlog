@@ -273,12 +273,12 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="108" width="108">
     <a href="https://github.com/batuhanlog/Veterinary_Management">
       <img
-        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/c1b1aee2-e668-4e49-ae0a-7a63e2d5bbec"
+        src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif"
         width="148"
         height="108"
         alt="Java"
       />
-      <br /><strong>Veteriner Management</strong>
+      <br /><strong>In Product</strong>
    
   </tr>
   <tr>
