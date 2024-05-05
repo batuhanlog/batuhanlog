@@ -323,12 +323,12 @@ Since 5 years I have been developing myself in web development projects. I have 
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://www.pngitem.com/pimgs/m/561-5615118_front-end-development-icon-clipart-png-download-transparent.png"
+        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/5f5b1105-3ade-4cb0-b7b5-1a0d11bd528d"
         width="48"
         height="48"
         alt="React"
       />
-      <br /><strong>Front-End</strong>
+      <br /><strong></strong>
     </td>
     <td align="center" height="108" width="108">
       <img
