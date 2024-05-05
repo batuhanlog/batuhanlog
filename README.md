@@ -7,7 +7,6 @@ Since 5 years I have been developing myself in web development projects. I have 
 * 🚀  I'm currently working on [Patika Bootcamp](http://patika.dev)
 * ⚡  You can contact me for anything you are curious about (I  won't eat you)
 
-![Profile views](https://gpvc.arturio.dev/[batuhanlog])
 # 🔧 Technologies & Tools
 
 <table>
@@ -270,12 +269,12 @@ Since 5 years I have been developing myself in web development projects. I have 
         alt="Java"
       />
       <br /><strong>Veteriner Management</strong>
-    <td align="center" height="108" width="108">
+    <td align="center" height="158" width="158">
     <a href="https://github.com/batuhanlog/Veterinary_Management">
       <img
         src="https://github.com/batuhanlog/batuhanlog/assets/82649079/5b2fe936-b437-45b2-85c0-9ec3636da0d1"
-        width="148"
-        height="108"
+        width="158"
+        height="158"
         alt="In Product"
       />
       <br /><strong>In Product</strong>
