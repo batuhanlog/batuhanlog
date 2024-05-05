@@ -125,7 +125,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
        <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png"
         width="48"
         height="48"
         alt="Tailwind CSS"
@@ -135,12 +135,12 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
        <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original-wordmark.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"
         width="48"
         height="48"
         alt="Electron"
       />
-      <br /><strong>Electron</strong>
+      <br /><strong>Vue JS</strong>
     </td>
     </td>
        <td align="center" height="108" width="108">
@@ -155,12 +155,12 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
        <td align="center" height="108" width="108">
       <img
-        src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg"
+        src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"
         width="48"
         height="48"
         alt="Electron"
       />
-      <br /><strong>Electron</strong>
+      <br /><strong>Node JS</strong>
     </td>
 
 
@@ -177,7 +177,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"
         width="48"
         height="48"
         alt="Adobe Photoshop"
@@ -233,12 +233,12 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png"
+        src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png"
         width="48"
         height="48"
         alt="Insomnia"
       />
-      <br /><strong>Insomnia</strong>
+      <br /><strong>Swagger</strong>
     </td>
   
   </tr>
