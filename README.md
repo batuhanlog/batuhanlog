@@ -257,7 +257,7 @@ Since 5 years I have been developing myself in web development projects. I have 
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="158">
       <img
         src="https://github.com/batuhanlog/batuhanlog/assets/82649079/2e10c676-5e8d-4d7c-b894-bd2bcde2e501"
         width="78"
@@ -322,11 +322,11 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
   </tr>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="158">
       <img
         src="https://github.com/batuhanlog/batuhanlog/assets/82649079/0dad3b77-de17-463e-bed4-90dc80a2f23c"
-        width="48"
-        height="48"
+        width="78"
+        height="78"
         alt="React"
       />
       <br /><strong></strong>
@@ -411,14 +411,14 @@ Since 5 years I have been developing myself in web development projects. I have 
 
   </tr>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="178">
       <img
-        src="https://static.vecteezy.com/system/resources/previews/015/771/729/non_2x/ui-ux-designer-icon-design-free-vector.jpg"
-        width="48"
-        height="48"
+        src="https://private-user-images.githubusercontent.com/82649079/328019242-5f5b1105-3ade-4cb0-b7b5-1a0d11bd528d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5MTU1MjUsIm5iZiI6MTcxNDkxNTIyNSwicGF0aCI6Ii84MjY0OTA3OS8zMjgwMTkyNDItNWY1YjExMDUtM2FkZS00Y2IwLWI3YjUtMWEwZDExYmQ1MjhkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDEzMjAyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEyYzYxNjhjZjNkMTA1ZjQ0NzI2Y2ZmOTJhMGQ4MmI1OThjZjM0NDkwNDAwZWUwYThjZTI4NWEyYWMzYjQ1MWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2Wf5pXwVim0VwTTnRbZInF-SK07Bnf-vi0Xlxm_7ZyY"
+        width="78"
+        height="78"
         alt="React"
       />
-      <br /><strong>UI / UX</strong>
+      <br /><strong></strong>
     </td>
     <td align="center" height="108" width="108">
       <img
