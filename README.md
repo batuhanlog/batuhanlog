@@ -327,7 +327,7 @@ Since 5 years I have been developing myself in web development projects. I have 
       />
       <br /><strong></strong>
     </td>
-    <td align="center" height="108" width="158">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         width="48"
