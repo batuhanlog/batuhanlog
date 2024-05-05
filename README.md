@@ -392,17 +392,8 @@ Since 5 years I have been developing myself in web development projects. I have 
         alt="Tailwind CSS"
       />
       <br /><strong>Vite JS</strong>
-    </td>
-    </td>
-       <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg"
-        width="48"
-        height="48"
-        alt="Electron"
-      />
-      <br /><strong>Electron</strong>
-    </td>
+
+ 
 
   </tr>
   <tr>
