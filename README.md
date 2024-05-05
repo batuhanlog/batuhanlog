@@ -403,12 +403,11 @@ Since 5 years I have been developing myself in web development projects. I have 
       <br /><strong>Electron</strong>
     </td>
 
-
   </tr>
   <tr>
     <td align="center" height="108" width="178">
       <img
-        src="(https://github.com/batuhanlog/batuhanlog/assets/82649079/92007dd6-88db-47e8-80bd-487109648490"
+        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/92007dd6-88db-47e8-80bd-487109648490"
         width="78"
         height="78"
         alt="React"
