@@ -318,7 +318,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
   </tr>
   <tr>
-    <td align="center" height="108" width="158">
+    <td align="center" height="108" width="108">
       <img
         src="https://github.com/batuhanlog/batuhanlog/assets/82649079/72a7aa10-336d-4d29-9787-0a87de589f5d"
         width="78"
@@ -327,11 +327,11 @@ Since 5 years I have been developing myself in web development projects. I have 
       />
       <br /><strong></strong>
     </td>
-    <td align="center" height="138" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
+        width="78"
+        height="78"
         alt="JavaScript"
       />
       <br /><strong>JavaScript</strong>
@@ -406,7 +406,7 @@ Since 5 years I have been developing myself in web development projects. I have 
 
   </tr>
   <tr>
-    <td align="center" height="108" width="178">
+    <td align="center" height="108" width="108">
       <img
         src="https://github.com/batuhanlog/batuhanlog/assets/82649079/2a892cb5-8c08-4129-bb38-6dc3471e9f3d"
         width="78"
