@@ -218,7 +218,9 @@ Since 5 years I have been developing myself in web development projects. I have 
         height="48"
         alt="React"
       />
-      <br /><strong>Tools</strong>
+      </tr>
+  <tr>
+    <br /><strong>Tools</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
