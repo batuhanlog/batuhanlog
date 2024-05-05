@@ -256,7 +256,7 @@ Since 5 years I have been developing myself in web development projects. I have 
       <img
         src="https://github.com/batuhanlog/batuhanlog/assets/82649079/07e08832-657d-4d4c-b8f1-804183761d6d"
         width="118"
-        height="98"
+        height="88"
         alt="Java"
       />
       <br /><strong></strong>
@@ -321,8 +321,8 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="108" width="108">
       <img
         src="https://github.com/batuhanlog/batuhanlog/assets/82649079/72a7aa10-336d-4d29-9787-0a87de589f5d"
-        width="78"
-        height="78"
+        width="118"
+        height="88"
         alt="React"
       />
       <br /><strong></strong>
@@ -409,8 +409,8 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="108" width="108">
       <img
         src="https://github.com/batuhanlog/batuhanlog/assets/82649079/2a892cb5-8c08-4129-bb38-6dc3471e9f3d"
-        width="78"
-        height="78"
+        width="118"
+        height="88"
         alt="React"
       />
       <br /><strong></strong>
