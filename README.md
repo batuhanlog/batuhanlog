@@ -1,5 +1,6 @@
-![Siyah Piksel Temalı Oyun Kanalı Twitch Banner (1)](https://github.com/batuhanlog/batuhanlog/assets/82649079/2de725cb-9ac2-49bf-8ea4-93385f1d3464)
-================================================================
+
+<img width="1835" alt="Make your README" src="https://github.com/batuhanlog/batuhanlog/assets/82649079/a8ecace7-030a-493d-9f33-cf47bfae2ab5">
+========================
 
 Full Stack Web Developer
 ------------------------
