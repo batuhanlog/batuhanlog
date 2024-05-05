@@ -256,47 +256,15 @@ Since 5 years I have been developing myself in web development projects. I have 
         height="48"
         alt="React"
       />
-      <br /><strong>Projects</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a href="https://github.com/Bpolat0/TourismManagement" target="_blank">
-      <img
-        src="https://github.com/Bpolat0/TourismManagement/blob/master/src/media/dashboard_light.png"
-        width="48"
-        height="48"
-        alt="Postman"
-      />
-      <br /><strong>Tourism Management</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a href="https://github.com/Bpolat0/vetclinic" target="_blank">
-      <img
-        src="https://github.com/Bpolat0/vetclinic/blob/master/src/media/entity_relationship_diagram.svg"
-        width="48"
-        height="48"
-        alt="Insomnia"
-      />
-      <br /><strong>Vetclinic REST API</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a href="" target="_blank">
-      <img
-        src=""
-        width="48"
-        height="48"
-        alt="Insomnia"
-      />
-      <br /><strong>Fully Responsive Landing Page</strong>
-    </td>
+     
     <!-- Diğer tools ekleyebilirsiniz -->
   </tr>
 </table>
 
 ![Siyah Teknoloji LinkedIn Banner](https://github.com/batuhanlog/batuhanlog/assets/82649079/04ced5f4-ed34-40e3-ae36-a5427b47228e)
-
 <table>
   <tr>
-    <br /><strong>Projects</strong>
+    <strong>Projects</strong>
     </td>
     <td align="center" height="108" width="108">
       <a href="https://github.com/Bpolat0/TourismManagement" target="_blank">
