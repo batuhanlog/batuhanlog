@@ -347,7 +347,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="108" width="108">
           <a href="https://github.com/batuhanlog/Veterinary-Management-System">
       <img
-        src="https://private-user-images.githubusercontent.com/82649079/327976767-3479862f-77f0-47a0-b52c-77ce49ec6019.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5NDAyNTUsIm5iZiI6MTcxNDkzOTk1NSwicGF0aCI6Ii84MjY0OTA3OS8zMjc5NzY3NjctMzQ3OTg2MmYtNzdmMC00N2EwLWI1MmMtNzdjZTQ5ZWM2MDE5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDIwMTIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlODY0MjAxZGFhYjgwYmRiMTQ0Mzc0ZjFjYjYzZWI4NjAwYTlkYzVhY2UyNzY3YTQwNDgyMWFjNDcyYTQ4MGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iq48V4dgqEfN5GhVNIDkEzZJhYh0pBHFEvCMqQkBm2I"
+        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/0b4a7bef-2178-48d6-b89f-40a1c96b99f3"
         width="108"
         height="48"
         alt="Adobe Photoshop"
