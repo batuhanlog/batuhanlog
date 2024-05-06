@@ -310,9 +310,9 @@ Since 5 years I have been developing myself in web development projects. I have 
       <br /><strong>Question </strong>
     </td>
        <td align="center" height="108" width="108">
-             <a href="https://github.com/batuhanlog?tab=repositories">
+             <a href="https://github.com/batuhanlog/Front-end-Projects/tree/main/Bootstrap/MusicStore">
       <img
-        src="https://private-user-images.githubusercontent.com/82649079/295059831-34c6262d-3ec3-4343-9012-8ca27465ff50.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5NDI2MTksIm5iZiI6MTcxNDk0MjMxOSwicGF0aCI6Ii84MjY0OTA3OS8yOTUwNTk4MzEtMzRjNjI2MmQtM2VjMy00MzQzLTkwMTItOGNhMjc0NjVmZjUwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDIwNTE1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2OTc3Nzk4Y2E5OWJmMDlhOWJlNzU1N2E4Y2I5NmU5Y2VlNmJiYTRkZGY3N2Y1NmMwMThiNWQ5NzY5ZmMwOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.yuFu36I8rIX2TmyTwnT7Pa5yToXtvArt3hezJxJl-FQ"
+        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/f56f3967-c846-44f4-9a84-279d8f3367d4"
         width="148"
         height="58"
         alt="HTML"
@@ -321,9 +321,9 @@ Since 5 years I have been developing myself in web development projects. I have 
     </td>
       </td>
        <td align="center" height="108" width="108">
-             <a href="https://github.com/batuhanlog?tab=repositories">
+             <a href="https://github.com/batuhanlog/Front-end-Projects/tree/main/CSS/Hobby">
       <img
-        src="https://private-user-images.githubusercontent.com/82649079/293609030-28567be2-159f-456e-bea7-39db1ac21d3a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5NDI2MTksIm5iZiI6MTcxNDk0MjMxOSwicGF0aCI6Ii84MjY0OTA3OS8yOTM2MDkwMzAtMjg1NjdiZTItMTU5Zi00NTZlLWJlYTctMzlkYjFhYzIxZDNhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDIwNTE1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkNjBiMDYwYTA1ZjdmZWU1ZmU1MWYzMTk3YmZiNDI3MzQwMmI0OTJlMDQ3ZWFkMjUxYTcwMmNmZDA5MGNhMWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bTZN9AzS9TQ61PZ9lP3qpLW5qZ4MlQJPwD193lEhG4c"
+        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/816e3a41-9656-409a-a2f6-af9446931279"
         width="148"
         height="58"
         alt="HTML"
@@ -336,6 +336,7 @@ Since 5 years I have been developing myself in web development projects. I have 
   </tr>
   <tr>
     <td align="center" height="108" width="138">
+                   <a href="https://github.com/batuhanlog/Front-end-Projects/tree/main">
       <img
         src="https://github.com/batuhanlog/batuhanlog/assets/82649079/2a892cb5-8c08-4129-bb38-6dc3471e9f3d"
         width="118"
