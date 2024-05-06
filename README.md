@@ -5,6 +5,7 @@ From that age to this age, I created various projects and finally decided to bec
 For 2 years I have been developing myself in the field of web development.
 
 I attended a comprehensive long-term software bootcamp and successfully completed it.
+
 and now, as an assistant, I help new software learners.
 
 * 🌍  I'm based in İstanbul.
