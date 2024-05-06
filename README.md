@@ -263,7 +263,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="108" width="108">
     <a href="https://github.com/batuhanlog/Veterinary_Management">
       <img
-        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/d3af9a0d-3a79-4678-a75b-417493e6e1df"
+        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/8b4e196f-c0db-4e14-a3ea-4d78cc1e6312"
         width="148"
         height="48"
         alt="Java"
@@ -272,7 +272,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="108" width="108">
     <a href="#">
       <img
-        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFkeTB0cjVka3picTQzbmFpNmppMncycDJsd2UzMHVtZmtnZTk5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u5BzptR1OTZ04/giphy.gif"
+        src="https://media.tenor.com/WJrxtr--PCUAAAAj/workout-gym.gif"
         width="118"
         height="88"
         alt="In Product"
