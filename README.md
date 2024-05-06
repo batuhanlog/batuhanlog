@@ -293,7 +293,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="108" width="108">
           <a href="https://github.com/batuhanlog/Spor-Center-Web-Site">
       <img
-        src="https://private-user-images.githubusercontent.com/82649079/327977445-8b9aa2a7-b2d6-455d-ad0a-70b1d3f64e9d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5NDAyNTUsIm5iZiI6MTcxNDkzOTk1NSwicGF0aCI6Ii84MjY0OTA3OS8zMjc5Nzc0NDUtOGI5YWEyYTctYjJkNi00NTVkLWFkMGEtNzBiMWQzZjY0ZTlkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDIwMTIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzMmMxYTFiNTRlZmE5YjYzYzBiNmUyOTYzNjc2YmY5MDg3MTU5NmNjNmUyNGY0ZjM5ZGVmYmYwNWE2MDk1N2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.djyCZOlENOxHrfhVyqlP9v-NOuvJV0Zhf8bunaAqdKA"
+        src="![Screenshot (17)](https://github.com/batuhanlog/batuhanlog/assets/82649079/f749a5e9-0a06-4478-a26d-7b0901630b2f)"
         width="148"
         height="58"
         alt="JavaScript"
