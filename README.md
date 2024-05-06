@@ -369,7 +369,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="108" width="108">
           <a href="https://github.com/batuhanlog/Library/tree/main">
       <img
-        src="https://kultur.istanbul/gorsel/2022/03/kapak.png"
+        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/6a413d31-4504-4ea0-bc59-9208fa93cf17"
         width="148"
         height="78"
         alt="MySQL"
