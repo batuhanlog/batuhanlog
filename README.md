@@ -302,7 +302,7 @@ Since 5 years I have been developing myself in web development projects. I have 
    <td align="center" height="108" width="108">
         <a href="https://github.com/batuhanlog/Question_Project-JS-REACT-">
       <img
-        src="https://private-user-images.githubusercontent.com/82649079/308703908-4eb04a23-c371-4e63-906d-6efdb445e4ac.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUwMDk1OTgsIm5iZiI6MTcxNTAwOTI5OCwicGF0aCI6Ii84MjY0OTA3OS8zMDg3MDM5MDgtNGViMDRhMjMtYzM3MS00ZTYzLTkwNmQtNmVmZGI0NDVlNGFjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA2VDE1MjgxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzMDc5MGNmNzQ5M2U0OTE1M2E0N2Y5YjMwMmVkNGMwODdlMTBjZWI5Y2NiMWJhNDFiODIzOTYxNzQ2NDM0MDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.e4YGJCbchgI0le64GDVAp2Ipos6EAc93Wyqq-XAe_1Y"
+        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/af2dada1-ea72-4434-b338-4bcb3bb9ccea"
         width="148"
         height="68"
         alt="Spring Boot"
@@ -330,7 +330,16 @@ Since 5 years I have been developing myself in web development projects. I have 
       />
       <br /><strong>Hobby </strong>
     </td>
-
+<td align="center" height="108" width="108">
+             <a href="https://github.com/batuhanlog/Front-end-Projects/tree/main/CSS/MusicStore">
+      <img
+        src="https://raw.githubusercontent.com/batuhanlog/Front-end-Projects/main/JavaScript/AsianKitchen/ss.png"
+        width="148"
+        height="58"
+        alt="Kitchen"
+      />
+      <br /><strong>Kitchen </strong>
+    </td>
  
 
   </tr>
