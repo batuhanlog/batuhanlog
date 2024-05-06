@@ -272,9 +272,9 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="158" width="158">
     <a href="https://github.com/batuhanlog/Veterinary_Management">
       <img
-        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/5b2fe936-b437-45b2-85c0-9ec3636da0d1"
+        src="https://media4.giphy.com/media/JWybLzXs7Hn0JKhSji/200w.gif?cid=6c09b9528sf5tea0q38rq360fxomp96lajoerhojp68vcukc&ep=v1_gifs_search&rid=200w.gif&ct=g"
         width="158"
-        height="158"
+        height="48"
         alt="In Product"
       />
       <br /><strong>In Product</strong>
