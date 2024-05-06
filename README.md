@@ -3,7 +3,7 @@ Since 5 years I have been developing myself in web development projects. I have 
 
 * 🌍  I'm based in İstanbul.
 * 🖥️  See my portfolio at [Web site](http://webludo.com)
-* ✉️  You can contact me at [batuhan@webludo.com](mailto:batuhan@webludo.com)
+* ✉️  You can contact me at [kayahanwork@gmail.com](mailto:kayahanwork@gmail.com)
 * 🚀  I'm currently working on [Patika Bootcamp](http://patika.dev)
 * ⚡  You can contact me for anything you are curious about (I  won't eat you)
 
