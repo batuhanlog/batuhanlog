@@ -272,7 +272,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="108" width="108">
     <a href="#">
       <img
-        src="https://media.tenor.com/WJrxtr--PCUAAAAj/workout-gym.gif"
+        src="https://i.pinimg.com/originals/54/83/0f/54830f8406cba17b2d39e9d45b01f51d.png"
         width="118"
         height="88"
         alt="In Product"
