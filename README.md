@@ -317,7 +317,7 @@ Since 5 years I have been developing myself in web development projects. I have 
         height="58"
         alt="HTML"
       />
-      <br /><strong>Music Store</strong>
+      <br /><strong>Store</strong>
     </td>
       </td>
        <td align="center" height="108" width="108">
