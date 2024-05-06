@@ -293,7 +293,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="108" width="108">
           <a href="https://github.com/batuhanlog/Spor-Center-Web-Site">
       <img
-        src="![Screenshot (17)](https://github.com/batuhanlog/batuhanlog/assets/82649079/f749a5e9-0a06-4478-a26d-7b0901630b2f)"
+        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/f749a5e9-0a06-4478-a26d-7b0901630b2f"
         width="148"
         height="58"
         alt="JavaScript"
