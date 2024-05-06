@@ -358,7 +358,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="108" width="108">
           <a href="https://github.com/batuhanlog/Turizm-Acenta-Sistemi">
       <img
-        src="https://private-user-images.githubusercontent.com/82649079/327977292-ada422eb-be79-4009-92e5-925337673e54.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5NDAyNTUsIm5iZiI6MTcxNDkzOTk1NSwicGF0aCI6Ii84MjY0OTA3OS8zMjc5NzcyOTItYWRhNDIyZWItYmU3OS00MDA5LTkyZTUtOTI1MzM3NjczZTU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDIwMTIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlNzQ5OTU2NWRmMjY3ODcxZmUwNWQ5NTBhMzU1OGQyMGQ2NWFmODEwYTUzMTM5YTFlZDhmYjYwNTc3NTc3MWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lZDvDaKiAdf4tixWzfRvab62oJL-lK7_BvTNWjRycEQ"
+        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/f338a511-5137-4737-b502-909a8eea80fe"
         width="148"
         height="48"
         alt="Adobe Photoshop"
