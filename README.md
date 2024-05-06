@@ -1,10 +1,10 @@
 ![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/edfcb64d-726c-4990-8a19-461bd8663b34)
-I entered the world of web development at a young age, I coded my first website( <a href="https://dincicocuklar.tr.gg/" target="_blank">Here</a>) at the age of 10 and made my first money online through my movie website.
+I entered the world of web development at a young age, I coded my first website(<a href="https://dincicocuklar.tr.gg/" target="_blank">Here</a>) at the age of 10 and made my first money online through my movie website.
 From that age to this age, I created various projects and finally decided to become a web developer.
 
 For 2 years I have been developing myself in the field of web development.
 
-I attended a comprehensive long-term software bootcamp and successfully completed it.
+I attended a comprehensive long-term software bootcamp and successfully completed it
 And now, as an assistant, I help new software learners.
 
 * 🌍  I'm based in İstanbul.
