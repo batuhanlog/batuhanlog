@@ -201,15 +201,6 @@ Since 5 years I have been developing myself in web development projects. I have 
       />
       <br /><strong> Canva</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-        width="48"
-        height="48"
-        alt="Figma"
-      />
-      <br /><strong>Figma</strong>
-    </td>
     </tr>
   <tr>
     <td align="center" height="108" width="108">
