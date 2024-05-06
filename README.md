@@ -270,14 +270,14 @@ Since 5 years I have been developing myself in web development projects. I have 
       />
       <br /><strong>Veteriner Management</strong>
     <td align="center" height="108" width="108">
-    <a href="https://github.com/batuhanlog/Veterinary_Management">
+    <a href="#">
       <img
-        src="https://i.pinimg.com/originals/54/83/0f/54830f8406cba17b2d39e9d45b01f51d.png"
+        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFkeTB0cjVka3picTQzbmFpNmppMncycDJsd2UzMHVtZmtnZTk5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u5BzptR1OTZ04/giphy.gif"
         width="118"
         height="88"
         alt="In Product"
       />
-      <br /><strong>In Product</strong>
+      <br /><strong>Very Soon</strong>
 
   </tr>
   <tr>
