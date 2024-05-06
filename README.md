@@ -274,7 +274,7 @@ Since 5 years I have been developing myself in web development projects. I have 
       <img
         src="https://simpauldesign.com/wp-content/uploads/2019/02/sky.garden.jpg"
         width="118"
-        height="88"
+        height="68"
         alt="In Product"
       />
       <br /><strong>Very Soon</strong>
