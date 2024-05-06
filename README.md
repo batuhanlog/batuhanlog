@@ -263,7 +263,7 @@ Since 5 years I have been developing myself in web development projects. I have 
     <td align="center" height="108" width="108">
     <a href="https://github.com/batuhanlog/Veterinary_Management">
       <img
-        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/31012211-b13c-417b-9275-90b52c373b72"
+        src="https://private-user-images.githubusercontent.com/82649079/316740452-3b1310d8-0344-4072-9729-d47260db8af5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUwMDk5OTksIm5iZiI6MTcxNTAwOTY5OSwicGF0aCI6Ii84MjY0OTA3OS8zMTY3NDA0NTItM2IxMzEwZDgtMDM0NC00MDcyLTk3MjktZDQ3MjYwZGI4YWY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA2VDE1MzQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYxMGNkYzRiNDVmYzNiMjMxNjBhYjliMWRhMDYzMmE3NzkyZWYzMmFlNTAzMDNhOTM0NTg1YWU4NzY1MTdjOTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EzuiHaUu0pBMNkyErNO3LUGIXOzP1ZvWP34wGI7KPQw"
         width="148"
         height="48"
         alt="Java"
