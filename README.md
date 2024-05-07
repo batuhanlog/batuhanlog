@@ -22,7 +22,7 @@ And now, as an assistant, I help new software learners.
 </p>
 <br/>
 
-#🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 <table>
   <tr>
