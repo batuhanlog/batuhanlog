@@ -21,7 +21,6 @@ And now, as an assistant, I help new software learners.
   </kbd>
 </p>
 <br/>
-
 # 🛠️ Technologies & Tools
 
 <table>
