@@ -21,8 +21,8 @@ And now, as an assistant, I help new software learners.
   </kbd>
 </p>
 <br/>
-<!-- Tech Stack -->  
-# 🛠️ Technologies & Tools
+
+#🛠️ Technologies & Tools
 
 <table>
   <tr>
