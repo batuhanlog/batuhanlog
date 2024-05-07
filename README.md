@@ -11,10 +11,6 @@ And now, as an assistant, I help new software learners.
 * ✉️  You can contact me at [kayahanwork@gmail.com](mailto:kayahanwork@gmail.com)
 * 🚀  I'm currently working on [Patika Bootcamp](http://patika.dev)
 * ⚡  You can contact me for anything you are curious about (I  won't eat you)
-<!-- Profile View Counter -->
-![Profile View Counter](https://komarev.com/ghpvc/?username=batuhanlog)
-<br/>
-
 <!-- Social Links -->
 <p>
    <kbd>
@@ -25,9 +21,7 @@ And now, as an assistant, I help new software learners.
   </kbd>
 </p>
 <br/>
-
 <!-- Tech Stack -->  
-
 # 🛠️ Technologies & Tools
 
 <table>
