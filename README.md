@@ -9,7 +9,7 @@ And now, as an assistant, I help new software learners.
 
 * 🌍  I'm based in İstanbul.
 * ✉️  You can contact me at [kayahanwork@gmail.com](mailto:kayahanwork@gmail.com)
-* 🚀  I'm currently working on [Patika Bootcamp](http://patika.dev)
+* 🚀  I'm currently working on [Patika](http://patika.dev) Bootcamp Assistant
 * ⚡  You can contact me for anything you are curious about (I  won't eat you)
 <!-- Social Links -->
 <p>
