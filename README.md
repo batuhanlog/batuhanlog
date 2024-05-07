@@ -20,7 +20,6 @@ And now, as an assistant, I help new software learners.
      <a target="_blank" href="mailto:kayahanwork@gmail.com" title="Mail - Batuhan Kayahan"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   </kbd>
 </p>
-<br/>
 # 🛠️ Technologies & Tools
 
 <table>
