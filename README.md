@@ -11,6 +11,22 @@ And now, as an assistant, I help new software learners.
 * ✉️  You can contact me at [kayahanwork@gmail.com](mailto:kayahanwork@gmail.com)
 * 🚀  I'm currently working on [Patika Bootcamp](http://patika.dev)
 * ⚡  You can contact me for anything you are curious about (I  won't eat you)
+<!-- Profile View Counter -->
+![Profile View Counter](https://komarev.com/ghpvc/?username=batuhanlog)
+<br/>
+
+<!-- Social Links -->
+<p>
+   <kbd>
+      <a target="_blank" href="https://twitter.com/batuhanlog" title="Twitter - @batuhanlog"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+      <a target="_blank" href="https://www.linkedin.com/in/batuhankayahan" title="LinkedIn - Batuhan Kayahan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+     <a target="_blank" href="https://medium.com/@batuhankayahan" title="Medium - Batuhan Kayahan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+     <a target="_blank" href="mailto:kayahanwork@gmail.com" title="Mail - Batuhan Kayahan"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  </kbd>
+</p>
+<br/>
+
+<!-- Tech Stack -->  
 
 # 🛠️ Technologies & Tools
 
