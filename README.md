@@ -3,7 +3,6 @@ I entered the world of web development at a young age, I coded my first website(
 From that age to this age, I created various projects and finally decided to become a web developer.
 
 For 2 years I have been developing myself in the field of web development.
-
 I attended a comprehensive long-term software bootcamp and successfully completed it
 And now, as an assistant, I help new software learners.
 
