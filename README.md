@@ -49,7 +49,7 @@ And now, as an assistant, I help new software learners.
         height="48"
         alt="Spring Boot"
       />
-      <br /><strong>Spring Boot</strong>
+      <br /><strong>Spring</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -137,22 +137,22 @@ And now, as an assistant, I help new software learners.
     </td>
        <td align="center" height="108" width="108">
       <img
-        src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg"
         width="48"
         height="48"
-        alt="Tailwind CSS"
+        alt="Bootstrap"
       />
-      <br /><strong>Tailwind CSS</strong>
+      <br /><strong>Bootstrap</strong>
     </td>
     </td>
        <td align="center" height="108" width="108">
       <img
-        src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg"
         width="48"
         height="48"
-        alt="Electron"
+        alt="TailwindCss"
       />
-      <br /><strong>Vue JS</strong>
+      <br /><strong>Tailwind</strong>
     </td>
     </td>
        <td align="center" height="108" width="108">
@@ -194,7 +194,7 @@ And now, as an assistant, I help new software learners.
         height="48"
         alt="Adobe Photoshop"
       />
-      <br /><strong>Adobe Photoshop</strong>
+      <br /><strong>Photoshop</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -203,7 +203,7 @@ And now, as an assistant, I help new software learners.
         height="48"
         alt="Adobe Illustrator"
       />
-      <br /><strong>Adobe Illustrator</strong>
+      <br /><strong>Illustrator</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
