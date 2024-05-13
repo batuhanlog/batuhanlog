@@ -1,4 +1,4 @@
-![image](https://github.com/batuhanlog/batuhanlog/assets/82649079/edfcb64d-726c-4990-8a19-461bd8663b34)
+![DocReed-Reedicus-Mural-North+Carolina-Designer-Illustrator-Github-Disruptor-sm](https://github.com/batuhanlog/batuhanlog/assets/82649079/392375c6-a4fd-497a-9942-3455436ff29e)
 I entered the world of web development at a young age, I coded my first website(<a href="https://dincicocuklar.tr.gg/" target="_blank">Here</a>) at the age of 10 and made my first money online through my movie website.
 From that age to this age, I created various projects and finally decided to become a web developer.
 
