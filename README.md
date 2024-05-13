@@ -207,7 +207,7 @@ And now, as an assistant, I help new software learners.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+        src="https://i.pinimg.com/originals/ea/27/eb/ea27eb4a6229bfa4fa24cee2e9547c01.png"
         width="48"
         height="48"
         alt="Canva"
