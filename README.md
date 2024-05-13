@@ -227,7 +227,7 @@ And now, as an assistant, I help new software learners.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.worldvectorlogo.com/logos/postman.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg"
         width="48"
         height="48"
         alt="Postman"
