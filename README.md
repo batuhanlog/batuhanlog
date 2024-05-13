@@ -100,7 +100,7 @@ And now, as an assistant, I help new software learners.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"
         width="48"
         height="48"
         alt="JavaScript"
@@ -109,7 +109,7 @@ And now, as an assistant, I help new software learners.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg"
         width="48"
         height="48"
         alt="React"
@@ -118,7 +118,7 @@ And now, as an assistant, I help new software learners.
     </td>
        <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"
         width="48"
         height="48"
         alt="HTML"
@@ -127,7 +127,7 @@ And now, as an assistant, I help new software learners.
     </td>
        <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg"
         width="48"
         height="48"
         alt="CSS"
@@ -137,7 +137,7 @@ And now, as an assistant, I help new software learners.
     </td>
        <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg"
         width="48"
         height="48"
         alt="Tailwind CSS"
@@ -147,7 +147,7 @@ And now, as an assistant, I help new software learners.
     </td>
        <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg"
         width="48"
         height="48"
         alt="Electron"
@@ -157,7 +157,7 @@ And now, as an assistant, I help new software learners.
     </td>
        <td align="center" height="108" width="108">
       <img
-        src="https://cdn.worldvectorlogo.com/logos/vitejs.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg"
         width="48"  
         height="48"
         alt="Tailwind CSS"
@@ -167,7 +167,7 @@ And now, as an assistant, I help new software learners.
     </td>
        <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg"
         width="48"
         height="48"
         alt="Electron"
@@ -189,7 +189,7 @@ And now, as an assistant, I help new software learners.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg"
         width="48"
         height="48"
         alt="Adobe Photoshop"
@@ -198,7 +198,7 @@ And now, as an assistant, I help new software learners.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg"
         width="48"
         height="48"
         alt="Adobe Illustrator"
