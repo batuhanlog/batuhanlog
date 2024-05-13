@@ -35,7 +35,7 @@ And now, as an assistant, I help new software learners.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg"
         width="48"
         height="48"
         alt="Java"
@@ -44,7 +44,7 @@ And now, as an assistant, I help new software learners.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg"
         width="48"
         height="48"
         alt="Spring Boot"
@@ -53,7 +53,7 @@ And now, as an assistant, I help new software learners.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg"
         width="48"
         height="48"
         alt="MySQL"
@@ -62,7 +62,7 @@ And now, as an assistant, I help new software learners.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"
         width="48"
         height="48"
         alt="PostgreSQL"
@@ -71,7 +71,7 @@ And now, as an assistant, I help new software learners.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg"
         width="48"
         height="48"
         alt="MongoDB"
@@ -80,7 +80,7 @@ And now, as an assistant, I help new software learners.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg"
         width="48"
         height="48"
         alt="Docker"
