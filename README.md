@@ -167,12 +167,12 @@ And now, as an assistant, I help new software learners.
     </td>
        <td align="center" height="108" width="108">
       <img
-        src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
         width="48"
         height="48"
         alt="Electron"
       />
-      <br /><strong>Node JS</strong>
+      <br /><strong>Redux</strong>
     </td>
 
 
