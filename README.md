@@ -255,7 +255,7 @@ From that age to this age, I created various projects and finally decided to bec
 
 </table>
 
-![Siyah Teknoloji LinkedIn Banner](https://github.com/batuhanlog/batuhanlog/assets/82649079/04ced5f4-ed34-40e3-ae36-a5427b47228e)
+
 
 
 
