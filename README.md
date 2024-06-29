@@ -39,6 +39,15 @@ From that age to this age, I created various projects and finally decided to bec
       />
       <br /><strong>Java</strong>
     </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg"
+        width="48"
+        height="48"
+        alt="Java"
+      />
+      <br /><strong>.Net</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg"
