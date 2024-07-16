@@ -400,7 +400,7 @@ From that age to this age, I created various projects and finally decided to bec
     <td align="center" height="108" width="108">
           <a href="https://github.com/batuhanlog/.Net-NLayer-Project">
       <img
-        src="![Screenshot (55)](https://github.com/user-attachments/assets/3e0dff39-dbce-4306-9199-c986b5b872d0)"
+        src="https://github.com/user-attachments/assets/3e0dff39-dbce-4306-9199-c986b5b872d0"
         width="148"
         height="78"
         alt="MySQL"
