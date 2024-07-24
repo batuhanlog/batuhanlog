@@ -279,15 +279,7 @@ From that age to this age, I created various projects and finally decided to bec
         alt="Java"
       />
       <br /><strong>Veteriner Management</strong>
-    <td align="center" height="108" width="108">
-    <a href="#">
-      <img
-        src="https://simpauldesign.com/wp-content/uploads/2019/02/sky.garden.jpg"
-        width="118"
-        height="68"
-        alt="In Product"
-      />
-      <br /><strong>Very Soon</strong>
+   
 
   </tr>
   <tr>
