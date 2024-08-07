@@ -397,7 +397,7 @@ From that age to this age, I created various projects and finally decided to bec
         height="78"
         alt="MySQL"
       />
-      <br /><strong>.Net API</strong>
+      <br /><strong>Web API</strong>
     </td>
     
   </tr>
