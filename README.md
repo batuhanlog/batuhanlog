@@ -364,9 +364,9 @@ From that age to this age, I created various projects and finally decided to bec
     <td align="center" height="108" width="108">
           <a href="https://github.com/batuhanlog/Veterinary-Management-System">
       <img
-        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/0b4a7bef-2178-48d6-b89f-40a1c96b99f3"
-        width="108"
-        height="48"
+        src="https://cdn-icons-png.flaticon.com/512/2105/2105138.png"
+        width="148"
+        height="78"
         alt="Adobe Photoshop"
       />
       <br /><strong>Vet REST API</strong>
@@ -375,9 +375,9 @@ From that age to this age, I created various projects and finally decided to bec
     <td align="center" height="108" width="108">
           <a href="https://github.com/batuhanlog/Turizm-Acenta-Sistemi">
       <img
-        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/f338a511-5137-4737-b502-909a8eea80fe"
+        src="https://cdn-icons-png.flaticon.com/512/9638/9638452.png"
         width="148"
-        height="48"
+        height="78"
         alt="Adobe Photoshop"
       />
       <br /><strong>Tourism Management </strong>
@@ -386,9 +386,9 @@ From that age to this age, I created various projects and finally decided to bec
     <td align="center" height="108" width="108">
           <a href="https://github.com/batuhanlog/Library/tree/main">
       <img
-        src="https://github.com/batuhanlog/batuhanlog/assets/82649079/6a413d31-4504-4ea0-bc59-9208fa93cf17"
+        src="https://cdn-icons-png.flaticon.com/512/9043/9043296.png"
         width="148"
-        height="78"
+        height="68"
         alt="MySQL"
       />
       <br /><strong>Library</strong>
@@ -397,7 +397,7 @@ From that age to this age, I created various projects and finally decided to bec
     <td align="center" height="108" width="108">
           <a href="https://github.com/batuhanlog/.Net-NLayer-Project">
       <img
-        src="https://github.com/user-attachments/assets/3e0dff39-dbce-4306-9199-c986b5b872d0"
+        src="https://cdn-icons-png.flaticon.com/512/6471/6471842.png"
         width="148"
         height="78"
         alt="MySQL"
