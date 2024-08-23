@@ -247,7 +247,7 @@ From that age to this age, I created various projects and finally decided to bec
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png"
+        src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png"
         width="48"
         height="48"
         alt="Insomnia"
@@ -404,14 +404,14 @@ From that age to this age, I created various projects and finally decided to bec
       />
       <br /><strong>Web API</strong>
               <td align="center" height="108" width="108">
-          <a href="https://github.com/batuhanlog/.Net-NLayer-Project">
+          <a href="https://github.com/batuhanlog/DigitalStore">
       <img
         src="https://www.webapp.sk/uploads/img-63f7650fbbf25.png"
         width="148"
         height="78"
         alt="MySQL"
       />
-      <br /><strong>E-Commerce API</strong>
+      <br /><strong>Digital Store API</strong>
     </td>
 
     
