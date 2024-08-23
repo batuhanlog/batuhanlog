@@ -247,7 +247,7 @@ From that age to this age, I created various projects and finally decided to bec
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png"
+        src="https://www.svgrepo.com/show/354420/swagger.svg"
         width="48"
         height="48"
         alt="Insomnia"
