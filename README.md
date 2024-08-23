@@ -406,7 +406,7 @@ From that age to this age, I created various projects and finally decided to bec
               <td align="center" height="108" width="108">
           <a href="https://github.com/batuhanlog/DigitalStore">
       <img
-        src="https://www.webapp.sk/uploads/img-63f7650fbbf25.png"
+        src="https://cdn-icons-png.flaticon.com/512/950/950253.png"
         width="148"
         height="78"
         alt="MySQL"
