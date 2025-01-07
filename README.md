@@ -17,10 +17,7 @@ From that age to this age, I created various projects and finally decided to bec
   </kbd>
 </p>
 
-<details>
-  <summary>
-    More about me
-  </summary>
+
    
 # 🛠️ Technologies & Tools
 
