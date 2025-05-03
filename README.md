@@ -281,7 +281,16 @@ From that age to this age, I created various projects and finally decided to bec
         alt="Java"
       />
       <br /><strong>Veteriner Management</strong>
-   
+    </td>
+    <td align="center" height="108" width="108">
+    <a href="https://github.com/batuhanlog/Task_tracking_app_FrontEnd">
+      <img
+        src="https://private-user-images.githubusercontent.com/82649079/440098321-e5cd6932-df58-4cab-b7c0-2feb4bc76dde.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYyODY0OTIsIm5iZiI6MTc0NjI4NjE5MiwicGF0aCI6Ii84MjY0OTA3OS80NDAwOTgzMjEtZTVjZDY5MzItZGY1OC00Y2FiLWI3YzAtMmZlYjRiYzc2ZGRlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTAzVDE1Mjk1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1NmY2MGRhOTQ3NTQ0ODFmNmE4MmJhMjhkMmI3ZjVhNmVkMjE1NWI5ZGJjZWU1MjI2YTQxYzcwNGRiYTc1ZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.24I8vBZ32qlJqyLzSvQPT6LbusS1KJIBekATuRodxiQ"
+        width="148"
+        height="48"
+        alt="Java"
+      />
+      <br /><strong>Task Management</strong>
 <br>
   </tr>
   <tr>
